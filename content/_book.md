@@ -14,24 +14,51 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - hordubal_001.html
   - hordubal_002.html
-  - hordubal_003.html
-  - hordubal_004.html
   - hordubal_005.html
-  - hordubal_006.html
   - hordubal_007.html
-  - hordubal_008.html
   - hordubal_009.html
   - hordubal_010.html
   - hordubal_011.html
   - hordubal_012.html
   - hordubal_013.html
   - hordubal_014.html
-  - hordubal_015.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: hordubal_005.html
+        title: Předmluva
+        hiddenTitle: false
+      - link: hordubal_007.html
+        title: |-
+          Kniha
+          první
+        hiddenTitle: false
+      - link: hordubal_009.html
+        title: |-
+          Kniha
+          druhá
+        hiddenTitle: false
+      - link: hordubal_010.html
+        title: |-
+          Kniha
+          třetí
+        hiddenTitle: false
+      - link: hordubal_011.html
+        title: Ediční poznámka
+        hiddenTitle: false
+      - link: hordubal_012.html
+        title: |-
+          Život a doba spisovatele
+          Karla Čapka v datech
+        hiddenTitle: false
+      - link: hordubal_013.html
+        title: První vydání knih Karla Čapka
+        hiddenTitle: false
+      - link: hordubal_014.html
+        title: Poznámky pod čarou
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:

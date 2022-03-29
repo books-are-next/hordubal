@@ -12,3 +12,7 @@ Nyní po devíti letech se k vydání souborného Čapkova díla vracíme, abych
 Přejeme vám hezké čtení.
 
 _Redakce MKP_
+
+
+
+_Ačkoliv se tento příběh v některých jednotlivostech opírá o skutečnou událost, jest a chce být jen fikcí a nesnaží se ani o jakoukoli věrnost folkloristickou._
