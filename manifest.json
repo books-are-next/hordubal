@@ -1,0 +1,330 @@
+{
+  "author": "Karel Čapek",
+  "contenttype": "drama",
+  "edition": "beletrie",
+  "identifier": "capek-hordubal-40b7217",
+  "languagecode": "cs",
+  "modified": "2017-10-14T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Hordubal",
+  "revision": "40b7217",
+  "generatedAt": {
+    "date": "Tue Mar 29 2022 10:43:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648550593057
+  },
+  "documents": [
+    {
+      "title": "Hordubal",
+      "file": "hordubal_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hordubal_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hordubal",
+      "file": "hordubal_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "hordubal_001.html",
+      "next": "hordubal_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hordubal",
+      "file": "hordubal_003.html",
+      "words": 3,
+      "chars": 19,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hordubal_002.html",
+      "next": "hordubal_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hordubal",
+      "file": "hordubal_004.html",
+      "words": 79,
+      "chars": 537,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hordubal_003.html",
+      "next": "hordubal_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva • Hordubal",
+      "file": "hordubal_005.html",
+      "words": 141,
+      "chars": 931,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hordubal_004.html",
+      "next": "hordubal_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hordubal",
+      "file": "hordubal_006.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hordubal_005.html",
+      "next": "hordubal_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kniha\nprvní • Hordubal",
+      "file": "hordubal_007.html",
+      "words": 10687,
+      "chars": 58375,
+      "ideas": 224,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hordubal_006.html",
+      "next": "hordubal_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha\nprvní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hordubal",
+      "file": "hordubal_008.html",
+      "words": 13197,
+      "chars": 72544,
+      "ideas": 471,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hordubal_007.html",
+      "next": "hordubal_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kniha\ndruhá • Hordubal",
+      "file": "hordubal_009.html",
+      "words": 4468,
+      "chars": 25226,
+      "ideas": 269,
+      "role": "chapter",
+      "order": 8,
+      "prev": "hordubal_008.html",
+      "next": "hordubal_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha\ndruhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kniha\ntřetí • Hordubal",
+      "file": "hordubal_010.html",
+      "words": 5166,
+      "chars": 30547,
+      "ideas": 125,
+      "role": "chapter",
+      "order": 9,
+      "prev": "hordubal_009.html",
+      "next": "hordubal_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha\ntřetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Hordubal",
+      "file": "hordubal_011.html",
+      "words": 77,
+      "chars": 616,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 10,
+      "prev": "hordubal_010.html",
+      "next": "hordubal_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život a doba spisovatele\nKarla Čapka v datech • Hordubal",
+      "file": "hordubal_012.html",
+      "words": 293,
+      "chars": 2025,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 11,
+      "prev": "hordubal_011.html",
+      "next": "hordubal_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První vydání knih Karla Čapka • Hordubal",
+      "file": "hordubal_013.html",
+      "words": 233,
+      "chars": 1155,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 12,
+      "prev": "hordubal_012.html",
+      "next": "hordubal_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První vydání knih Karla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Hordubal",
+      "file": "hordubal_014.html",
+      "words": 42,
+      "chars": 231,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 13,
+      "prev": "hordubal_013.html",
+      "next": "hordubal_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hordubal",
+      "file": "hordubal_015.html",
+      "words": 47,
+      "chars": 311,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 14,
+      "prev": "hordubal_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 34439,
+      "chars": 192552,
+      "ideas": 1231
+    },
+    "chapters": {
+      "words": 34433,
+      "chars": 192517,
+      "ideas": 1226
+    }
+  }
+}

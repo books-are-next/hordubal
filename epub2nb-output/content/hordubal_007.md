@@ -1,8 +1,9 @@
 ---
+title: |-
+  Kniha
+  první
 contentType: prose
 ---
-
-## Kniha první
 
 ### I.
 
