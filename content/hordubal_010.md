@@ -1,8 +1,9 @@
 ---
+title: |-
+  Kniha
+  třetí
 contentType: prose
 ---
-
-## Kniha třetí
 
 Přelíčení proti Stěpánu Manyovi, šestadvacetiletému čeledínu, svobodnému, vyznání reformovaného, a proti Polaně Hordubalové, rozené Durkotové, vdově, jedenatřicet roků, vyznání řeckokatolického, pro úkladnou vraždu spáchanou na Juraji Hordubalovi, gazdovi v Krivej, případně pro spoluvinu na zavraždění Juraje Hordubala.
 

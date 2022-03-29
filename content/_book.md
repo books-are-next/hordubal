@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: drama
   title: Hordubal
   identifier: 22b34370-bf10-4812-a0c1-58db66671583
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2017-10-14T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - hordubal_001.html
   - hordubal_002.html
@@ -29,6 +33,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
