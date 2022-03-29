@@ -40,9 +40,9 @@
             "filename": "hordubal_001.md",
             "xhtml": "hordubal_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "hordubal_002.md",
             "xhtml": "hordubal_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "hordubal_003.md",
             "xhtml": "hordubal_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "hordubal_004.md",
             "xhtml": "hordubal_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -91,10 +91,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "hordubal_006.md",
@@ -104,9 +105,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "hordubal_007.md",
@@ -115,10 +117,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha\nprvní"
           },
           {
             "filename": "hordubal_008.md",
@@ -128,7 +131,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -139,10 +142,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha\ndruhá"
           },
           {
             "filename": "hordubal_010.md",
@@ -151,10 +155,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha\ntřetí"
           },
           {
             "filename": "hordubal_011.md",
@@ -163,10 +168,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "hordubal_012.md",
@@ -175,10 +181,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Život a doba spisovatele\nKarla Čapka v datech"
           },
           {
             "filename": "hordubal_013.md",
@@ -187,10 +194,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "První vydání knih Karla Čapka"
           },
           {
             "filename": "hordubal_014.md",
@@ -199,24 +207,26 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "hordubal_015.md",
             "xhtml": "hordubal_015.html",
             "id": 14,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
-            "hungry": false,
+            "inToc": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -255,7 +265,7 @@
         "xhtml": "hordubal_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "hordubal_005.md",
         "xhtml": "hordubal_005.html"
@@ -267,7 +277,7 @@
         "xhtml": "hordubal_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kniha\nprvní",
         "subtitleSuggest": "",
         "filename": "hordubal_007.md",
         "xhtml": "hordubal_007.html"
@@ -279,37 +289,37 @@
         "xhtml": "hordubal_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kniha\ndruhá",
         "subtitleSuggest": "",
         "filename": "hordubal_009.md",
         "xhtml": "hordubal_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kniha\ntřetí",
         "subtitleSuggest": "",
         "filename": "hordubal_010.md",
         "xhtml": "hordubal_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "hordubal_011.md",
         "xhtml": "hordubal_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "hordubal_012.md",
         "xhtml": "hordubal_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "hordubal_013.md",
         "xhtml": "hordubal_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "hordubal_014.md",
         "xhtml": "hordubal_014.html"
@@ -418,6 +428,6 @@
       "user": "books-are-next",
       "repo": "hordubal"
     },
-    "generatedAt": 1648548212240
+    "generatedAt": 1648550679159
   }
 }
