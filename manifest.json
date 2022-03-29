@@ -2,38 +2,18 @@
   "author": "Karel Čapek",
   "contenttype": "drama",
   "edition": "beletrie",
-  "identifier": "capek-hordubal-478d645",
+  "identifier": "capek-hordubal-9dfadd6",
   "languagecode": "cs",
   "modified": "2017-10-14T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Hordubal",
-  "revision": "478d645",
+  "revision": "9dfadd6",
   "generatedAt": {
-    "date": "Tue Mar 29 2022 10:46:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648550809041
+    "date": "Tue Mar 29 2022 12:45:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648557930012
   },
   "documents": [
-    {
-      "title": "Hordubal",
-      "file": "hordubal_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "hordubal_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Hordubal",
       "file": "hordubal_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "hordubal_001.html",
-      "next": "hordubal_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hordubal",
-      "file": "hordubal_003.html",
-      "words": 3,
-      "chars": 19,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "hordubal_002.html",
-      "next": "hordubal_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hordubal",
-      "file": "hordubal_004.html",
-      "words": 79,
-      "chars": 537,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "hordubal_003.html",
+      "order": 0,
+      "prev": null,
       "next": "hordubal_005.html",
       "toc": [
         {
@@ -97,13 +37,13 @@
     {
       "title": "Předmluva • Hordubal",
       "file": "hordubal_005.html",
-      "words": 141,
-      "chars": 931,
-      "ideas": 6,
+      "words": 166,
+      "chars": 1089,
+      "ideas": 7,
       "role": "chapter",
-      "order": 4,
-      "prev": "hordubal_004.html",
-      "next": "hordubal_006.html",
+      "order": 1,
+      "prev": "hordubal_002.html",
+      "next": "hordubal_007.html",
       "toc": [
         {
           "index": 0,
@@ -115,60 +55,20 @@
       ]
     },
     {
-      "title": "Hordubal",
-      "file": "hordubal_006.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 5,
-      "prev": "hordubal_005.html",
-      "next": "hordubal_007.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Kniha\nprvní • Hordubal",
       "file": "hordubal_007.html",
-      "words": 10687,
-      "chars": 58375,
-      "ideas": 224,
+      "words": 23884,
+      "chars": 130919,
+      "ideas": 695,
       "role": "chapter",
-      "order": 6,
-      "prev": "hordubal_006.html",
-      "next": "hordubal_008.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Kniha\nprvní",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hordubal",
-      "file": "hordubal_008.html",
-      "words": 13197,
-      "chars": 72544,
-      "ideas": 471,
-      "role": "chapter",
-      "order": 7,
-      "prev": "hordubal_007.html",
+      "order": 2,
+      "prev": "hordubal_005.html",
       "next": "hordubal_009.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kniha\nprvní",
           "id": null,
           "children": []
         }
@@ -181,8 +81,8 @@
       "chars": 25226,
       "ideas": 269,
       "role": "chapter",
-      "order": 8,
-      "prev": "hordubal_008.html",
+      "order": 3,
+      "prev": "hordubal_007.html",
       "next": "hordubal_010.html",
       "toc": [
         {
@@ -201,7 +101,7 @@
       "chars": 30547,
       "ideas": 125,
       "role": "chapter",
-      "order": 9,
+      "order": 4,
       "prev": "hordubal_009.html",
       "next": "hordubal_011.html",
       "toc": [
@@ -221,7 +121,7 @@
       "chars": 616,
       "ideas": 4,
       "role": "chapter",
-      "order": 10,
+      "order": 5,
       "prev": "hordubal_010.html",
       "next": "hordubal_012.html",
       "toc": [
@@ -241,7 +141,7 @@
       "chars": 2025,
       "ideas": 32,
       "role": "chapter",
-      "order": 11,
+      "order": 6,
       "prev": "hordubal_011.html",
       "next": "hordubal_013.html",
       "toc": [
@@ -261,7 +161,7 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 12,
+      "order": 7,
       "prev": "hordubal_012.html",
       "next": "hordubal_014.html",
       "toc": [
@@ -281,9 +181,9 @@
       "chars": 231,
       "ideas": 6,
       "role": "chapter",
-      "order": 13,
+      "order": 8,
       "prev": "hordubal_013.html",
-      "next": "hordubal_015.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -295,20 +195,20 @@
       ]
     },
     {
-      "title": "Hordubal",
-      "file": "hordubal_015.html",
-      "words": 47,
-      "chars": 311,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 14,
+      "title": "Tiráž • Hordubal",
+      "file": "colophon.html",
+      "words": 130,
+      "chars": 872,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "hordubal_014.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -317,14 +217,14 @@
   ],
   "totals": {
     "all": {
-      "words": 34439,
-      "chars": 192552,
-      "ideas": 1231
+      "words": 34464,
+      "chars": 192710,
+      "ideas": 1232
     },
     "chapters": {
-      "words": 34433,
-      "chars": 192517,
-      "ideas": 1226
+      "words": 34329,
+      "chars": 191808,
+      "ideas": 1205
     }
   }
 }
