@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - hordubal_002.html
+  - promo.html
   - hordubal_005.html
   - hordubal_007.html
   - hordubal_009.html

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Kniha
-  druhá
+title: Kniha druhá
 contentType: prose
 ---
 
