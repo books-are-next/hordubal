@@ -52,7 +52,7 @@
             "filename": "hordubal_002.md",
             "xhtml": "hordubal_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -276,7 +276,7 @@
         "xhtml": "hordubal_006.html"
       },
       {
-        "titleSuggest": "Kniha\nprvní",
+        "titleSuggest": "Kniha první",
         "subtitleSuggest": "",
         "filename": "hordubal_007.md",
         "xhtml": "hordubal_007.html"
@@ -288,13 +288,13 @@
         "xhtml": "hordubal_008.html"
       },
       {
-        "titleSuggest": "Kniha\ndruhá",
+        "titleSuggest": "Kniha druhá",
         "subtitleSuggest": "",
         "filename": "hordubal_009.md",
         "xhtml": "hordubal_009.html"
       },
       {
-        "titleSuggest": "Kniha\ntřetí",
+        "titleSuggest": "Kniha třetí",
         "subtitleSuggest": "",
         "filename": "hordubal_010.md",
         "xhtml": "hordubal_010.html"
@@ -306,7 +306,7 @@
         "xhtml": "hordubal_011.html"
       },
       {
-        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "hordubal_012.md",
         "xhtml": "hordubal_012.html"
@@ -427,6 +427,6 @@
       "user": "books-are-next",
       "repo": "hordubal"
     },
-    "generatedAt": 1648557880768
+    "generatedAt": 1652351544427
   }
 }

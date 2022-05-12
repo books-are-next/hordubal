@@ -1,7 +1,5 @@
 ---
-title: |-
-  Kniha
-  první
+title: Kniha první
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Kniha
-  třetí
+title: Kniha třetí
 contentType: prose
 ---
 
