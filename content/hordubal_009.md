@@ -1,6 +1,6 @@
 ---
 title: Kniha druhá
-contentType: prose
+contentType: drama
 ---
 
 ### I.

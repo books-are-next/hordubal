@@ -1,6 +1,6 @@
 ---
 title: Poznámky pod čarou
-contentType: prose
+contentType: drama
 ---
 
 [\[1\]](./resources/undefined) Bíro (mad.) – starosta. _Pozn. red._
