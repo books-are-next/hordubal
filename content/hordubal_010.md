@@ -3,6 +3,8 @@ title: Kniha třetí
 contentType: drama
 ---
 
+<section>
+
 Přelíčení proti Stěpánu Manyovi, šestadvacetiletému čeledínu, svobodnému, vyznání reformovaného, a proti Polaně Hordubalové, rozené Durkotové, vdově, jedenatřicet roků, vyznání řeckokatolického, pro úkladnou vraždu spáchanou na Juraji Hordubalovi, gazdovi v Krivej, případně pro spoluvinu na zavraždění Juraje Hordubala.
 
 Vstaňte, žalovaný. Právě jste slyšel žalovací spis. Cítíte se vinen ve smyslu žaloby?
@@ -248,3 +250,5 @@ Polana stojí jako bezduchá s hlavou hore; Štěpán Manya hlasitě štká.
 Odveďte je!
 
 Srdce Juraje Hordubala se kdesi ztratilo a nebylo nikdy pohřbeno.
+
+</section>
