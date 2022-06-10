@@ -3,6 +3,8 @@ title: Kniha první
 contentType: drama
 ---
 
+<section>
+
 ### I.
 
 Je to ten druhý od okna, ten v pomačkaných šatech: kdo by do něho řekl, že je to Amerikán? Nepovídejte, Amerikáni přece nejezdí osobním vlakem: jedou si v rychlíku, a ještě se jim to zdá málo, to prý v Americe jsou onačejší vlaky, o mnoho delší vozy, a v nich takový bílý waiter podává ledovou vodu a ice-creamy, víte? Haló, boy, huláká takový Amerikán, dones sem pivo, rundu piva, všem ve voze sklenici, ať to stojí třeba pět dolarů, damn! Kdepak, lidičky, v Americe, to je život, marno tady mluvit!
@@ -447,7 +449,11 @@ Sláva ti, Bože, toto už zvoní krávy, už je večer; teď přijdou i naše k
 
 A kravky – jako by rozuměly: otočí hlavu a hledí.
 
+</section>
 
+
+
+<section>
 
 ### X.
 
@@ -1387,3 +1393,5 @@ Do vrat vběhla Polana, rychlá, udýchaná. „Ty jsi už vstal?“ vyhrkla. �
 „Jak chceš, dušinko, jak chceš,“ praví Juraj poslušně a přívětivě. „Zbytečně bych tu překážel.“ Ještě zavřít vrata, zahákovat, a pomalu zašel do jizby.
 
 Když mu nesli večeři, spal.
+
+</section>
