@@ -1,6 +1,6 @@
 ---
 title: Kniha první
-contentType: prose
+contentType: drama
 ---
 
 ### I.
