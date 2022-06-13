@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-hordubal-dea59f5",
-  "revision": "dea59f5",
+  "identifier": "capek-hordubal-45702c6",
+  "revision": "45702c6",
   "readingOrder": [
     "promo.html",
     "hordubal_005.html",
@@ -23,8 +23,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:00:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948819375
+    "date": "Mon Jun 13 2022 21:54:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157278655
   },
   "documents": [
     {
@@ -202,9 +202,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 43,
-      "chars": 319,
-      "ideas": 5,
+      "words": 102,
+      "chars": 689,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "hordubal_014.html",
@@ -222,9 +222,9 @@
   ],
   "totals": {
     "all": {
-      "words": 34377,
-      "chars": 192161,
-      "ideas": 1210
+      "words": 34436,
+      "chars": 192531,
+      "ideas": 1219
     },
     "chapters": {
       "words": 34329,

@@ -2,7 +2,6 @@
 title: Tiráž
 ---
 
-<section>  
 **Karel Čapek**  
 **Hordubal**  
 Edice Bratři Čapkové  
@@ -10,8 +9,11 @@ Obálka Alena Kubíková
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Hordubal](https://search.mlp.cz/cz/titul/hordubal-povetron-obycejny-zivot/724/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1985. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 
