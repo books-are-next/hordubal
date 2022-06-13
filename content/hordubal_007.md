@@ -452,7 +452,6 @@ A kravky – jako by rozuměly: otočí hlavu a hledí.
 </section>
 
 
-
 <section>
 
 ### X.
