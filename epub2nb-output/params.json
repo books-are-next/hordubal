@@ -8,7 +8,7 @@
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2017-10-14T00:00:00.000Z",
-      "edition": "beletrie",
+      "edition": "drama",
       "publisherShort": "mkp"
     },
     "elements": {
@@ -427,6 +427,6 @@
       "user": "books-are-next",
       "repo": "hordubal"
     },
-    "generatedAt": 1655271346854
+    "generatedAt": 1655380686321
   }
 }

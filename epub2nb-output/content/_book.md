@@ -11,7 +11,7 @@ meta:
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2017-10-14T00:00:00.000Z'
-  edition: beletrie
+  edition: drama
   publisherShort: mkp
 readingOrder:
   - promo.html

@@ -5,11 +5,11 @@
   "title": "Hordubal",
   "author": "Karel Čapek",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-hordubal-f3c43ae",
-  "revision": "f3c43ae",
+  "identifier": "capek-hordubal-f06b133",
+  "revision": "f06b133",
   "readingOrder": [
     "promo.html",
     "hordubal_005.html",
@@ -23,8 +23,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:50:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272227224
+    "date": "Thu Jun 16 2022 11:59:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655380767987
   },
   "documents": [
     {
@@ -223,7 +223,7 @@
   "totals": {
     "all": {
       "words": 34460,
-      "chars": 192690,
+      "chars": 192687,
       "ideas": 1221
     },
     "chapters": {
