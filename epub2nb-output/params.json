@@ -64,7 +64,7 @@
             "filename": "hordubal_003.md",
             "xhtml": "hordubal_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "hordubal_004.md",
             "xhtml": "hordubal_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -217,7 +217,7 @@
             "filename": "hordubal_015.md",
             "xhtml": "hordubal_015.html",
             "id": 14,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": true,
@@ -427,6 +427,6 @@
       "user": "books-are-next",
       "repo": "hordubal"
     },
-    "generatedAt": 1655978593028
+    "generatedAt": 1657181946885
   }
 }
