@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-hordubal-4ff6292",
-  "revision": "4ff6292",
+  "identifier": "capek-hordubal-480f475",
+  "revision": "480f475",
   "readingOrder": [
     "promo.html",
     "hordubal_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:00:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188034408
+    "date": "Thu Jul 21 2022 14:38:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414328078
   },
   "documents": [
     {
@@ -203,7 +203,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 126,
-      "chars": 847,
+      "chars": 848,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -223,7 +223,7 @@
   "totals": {
     "all": {
       "words": 34460,
-      "chars": 192686,
+      "chars": 192687,
       "ideas": 1221
     },
     "chapters": {
