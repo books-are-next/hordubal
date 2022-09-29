@@ -293,7 +293,7 @@ Hordubal upíjí a pokyvuje hlavou. Pálí ta potvora, ale člověk si zvykne. �
 
 Andrej Pjosa, řečený Husár, vstává a jde ke dveřím, jako by neviděl; ve dveřích se obrací, střelí očima zpátky a vyhrkne: „Zdrávi došli, Juraji!“ Jsi ty podivín, Husáre; jako bys nemohl přisednout – nemysli si, že jsem se vrátil jako žebrák: mám pěkných pár set dolarů, ani Polana to ještě neví. Hle, poznal mne Pjosa; tak vida, samo to přišlo, samo přijde i ostatní, zaradoval se Hordubal. Žide, nalej mi ještě jednu!
 
-Dveře se rozletí a hrne se do nich chlap, hrne se jako velká voda – ale vždyť je to Vasil Gerič Vasilů, kamarád nejlepší; jen pozří, a už ke stolu, Vasile! Juraji! Škrábe takové chlapské pocelování a smrdí tabákem, ale dobré je, ech, ty Vasile! „Vítám tě, Juraji,“ povídá nějak starostlivě, „a cože jsi přijel?“ „A co, ty somáre, měl jsem tam umřít?“ směje se Hordubal. „Inu,“ povídá Gerič vyhýbavě, „není teď sedlákům dobře. Zdráv, pravda? Chvála Bohu aspoň za to.“ Divný jsi, Vasile, sedáš jen na půl zadku a sklenku do sebe hore dnem převracíš. Co nového? Nu, starý Kekerčuk zemřel, ten týden po velké noci, dej mu Bůh věčnou slávu, a v neděli si bral mladý Horolenko Michalčukovu holku; loni nám čert nadělil slintavku – Ja, Juraji, udělali mne tu starostou, bíro[\[1\]](./resources/undefined) jsem, to víš, jen pro zlost – Hovor se trhá, Vasil Vasilů neví jaksi, co by povídal; vstává a podává tlapu Jurajovi: „Bůh tě potěš, Juraji; musím už jít.“
+Dveře se rozletí a hrne se do nich chlap, hrne se jako velká voda – ale vždyť je to Vasil Gerič Vasilů, kamarád nejlepší; jen pozří, a už ke stolu, Vasile! Juraji! Škrábe takové chlapské pocelování a smrdí tabákem, ale dobré je, ech, ty Vasile! „Vítám tě, Juraji,“ povídá nějak starostlivě, „a cože jsi přijel?“ „A co, ty somáre, měl jsem tam umřít?“ směje se Hordubal. „Inu,“ povídá Gerič vyhýbavě, „není teď sedlákům dobře. Zdráv, pravda? Chvála Bohu aspoň za to.“ Divný jsi, Vasile, sedáš jen na půl zadku a sklenku do sebe hore dnem převracíš. Co nového? Nu, starý Kekerčuk zemřel, ten týden po velké noci, dej mu Bůh věčnou slávu, a v neděli si bral mladý Horolenko Michalčukovu holku; loni nám čert nadělil slintavku – Ja, Juraji, udělali mne tu starostou, bíro[^1] jsem, to víš, jen pro zlost – Hovor se trhá, Vasil Vasilů neví jaksi, co by povídal; vstává a podává tlapu Jurajovi: „Bůh tě potěš, Juraji; musím už jít.“
 
 Juraj se usmívá a otáčí sklenku v těžkých prstech. Není už Vasil, jako býval, ach, Pane na nebi, jak ten dovedl pít, až okna řinčela; ale přišel a poceloval – kamarád. Bůh tě potěš, Juraji; co ty tak, mám snad napsáno na nose, že se mi nepovedl návrat? Hej, že nepovedl, ale to ještě přijde; pomalu, pomalu se budu navracet, každý den o kousek, a vidíš, najednou budu doma. Mám peníze, Vasile; i pole mohu koupit, i krávy, dvanáct krav, když budu chtít; sám je vyženu na pastvu, třebas až na Volov Chrbát, dvanácti zvonci budou večer zvonit, a Polana bystře poběží otvírat vrata, jako dívčí – –
 
@@ -385,7 +385,7 @@ Juraj se trochu mračí: což jsem já panský správčík, abych jezdil vozem o
 
 „Učí se běhat,“ praví Manya lhostejně. „Ať se učí. Co, pane, s pomalým koněm?“
 
-Vozí-li Štěpán takto Polanu? přemítá Hordubal. Celá dědina se ohlíží: to jede Hordubalova žena, inu, jako statkářka; ruce založí a jede si. A co by nezpychla? myslí si Juraj. Chvála Bohu, je jiná než druhé ženštiny, tvrdá a rovná jako sloup; zřídila dvorec jako kaštel[\[2\]](./resources/undefined), sedm tisíc stržila za pár koní, tak co, má proč nést hlavu nahoru. To se, brachu, dobře platí.
+Vozí-li Štěpán takto Polanu? přemítá Hordubal. Celá dědina se ohlíží: to jede Hordubalova žena, inu, jako statkářka; ruce založí a jede si. A co by nezpychla? myslí si Juraj. Chvála Bohu, je jiná než druhé ženštiny, tvrdá a rovná jako sloup; zřídila dvorec jako kaštel[^2], sedm tisíc stržila za pár koní, tak co, má proč nést hlavu nahoru. To se, brachu, dobře platí.
 
 „Tak tady je ta rovina,“ ukazuje Štěpán bičem. „Až po ty akáty patří paní.“
 
@@ -594,7 +594,7 @@ A Hordubal se odklízí ke kravkám, lyska se po něm točí hlavou, až řetěz
 
 ### XI.
 
-Ožral se tu noc Manya, jako zvíře se ožral; ne tady v Krivé, ale až v Tolčemeši u žida, pobil se s parobky[\[3\]](./resources/undefined) a prý se i pobodal, kdož ví; až k ránu se vrátil, zpuchlý a pobitý, a teď vyspává ve stáji. Koně by se měli napojit, myslí si Juraj, ale nebudu se ti plést do tvých věcí. Když nemluvit na koně, tož dobře; sám si je obstarej. A Polana – jako stín, raději jí nevidět. Nu, jsou to věci, kaboní se Hordubal; co robit?
+Ožral se tu noc Manya, jako zvíře se ožral; ne tady v Krivé, ale až v Tolčemeši u žida, pobil se s parobky[^3] a prý se i pobodal, kdož ví; až k ránu se vrátil, zpuchlý a pobitý, a teď vyspává ve stáji. Koně by se měli napojit, myslí si Juraj, ale nebudu se ti plést do tvých věcí. Když nemluvit na koně, tož dobře; sám si je obstarej. A Polana – jako stín, raději jí nevidět. Nu, jsou to věci, kaboní se Hordubal; co robit?
 
 A horko, horko jako před bouří, mouchy zlobí, och, jaký mrzký den! Juraj se loudá do sadu za stodolou; ale i tady jaksi – co tu? Jen kopřivy čpí, a nač tu tolik střepů, cigánstvo takové – Jako stín je Polana: dřepí kdesi v komoře a nic – Bůh s tebou; ale víš, je tu těžko člověku. Hordubal si mne starostlivě vlhký týl. Inu, bouřka bude, měl by Štěpán sklidit domů seno –
 
@@ -726,7 +726,7 @@ Juraj uspokojeně oddychl. „Dá si teď pozor na tlamu, bagán jeden,“ bruč
 
 „Budu-li se jich bát,“ kasá se Hordubal a vrávorá domů. Ne, nejsem opilý, Polano, ale pobili mne v krčmě. Proč že mne pobili? Jen tak, dušinko, z veselosti, žertem jsme sílu měřili s Fedelešem Gejzou.
 
-„A víš ty, Vasile,“ vykládá Juraj nějak rozjařeně, „i v Americe jsem měl fajt[\[4\]](./resources/undefined), šel na mne s kladivem jeden majner, Němec či co; ale ti druzí – vzali mu kladivo a postavili se v kruhu, a teď fajtuj, ale jen holýma rukama. Ech, Vasile, já jich dostal po pysku, ale Němec šel na zem. A nikdo se nám do toho nepletl.“
+„A víš ty, Vasile,“ vykládá Juraj nějak rozjařeně, „i v Americe jsem měl fajt[^4], šel na mne s kladivem jeden majner, Němec či co; ale ti druzí – vzali mu kladivo a postavili se v kruhu, a teď fajtuj, ale jen holýma rukama. Ech, Vasile, já jich dostal po pysku, ale Němec šel na zem. A nikdo se nám do toho nepletl.“
 
 „Ty, Juraji,“ povídá vážně Gerič, „nechoď tady do krčmy, nebo zase bude bitka.“
 
@@ -990,7 +990,7 @@ Pomalu je soumrak, obzor nad celou rovinou se zardívá fialovou mlhou. Mám jí
 
 Konečně se hrne Hordubal ze dveří, je podroušen pálenkou, dohodli se asi staříci; starý Manya ho doprovází a pleská ho po zádech. Štěpán – stojí u hlav koní a drží je za řetízek udidel, inu, jako štolba; ani Hordubalovi to neušlo a kývl pochvalně na Štěpána.
 
-„Tak v neděli ve vároši[\[5\]](./resources/undefined),“ volá starý Manya, a c – c, vůz se rozjel. „Šťastnou cestu!“
+„Tak v neděli ve vároši[^5],“ volá starý Manya, a c – c, vůz se rozjel. „Šťastnou cestu!“
 
 Štěpán pokukuje po očku na hospodáře, nechce se ptát; snad sám začne –
 
