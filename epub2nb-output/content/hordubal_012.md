@@ -66,3 +66,13 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 Podílí se na organizaci světového kongresu Penklubů v Praze. Opakovaně je navrhován na Nobelovu cenu za literaturu. Po mnichovské konferenci (29.–30. 9. 1938) čelí nenávistné kampani, bojuje s českým fašismem a prožívá nejtěžší období svého života. Umírá 25. prosince na zápal plic. Pohřeb na Vyšehradě se koná 29. prosince.
 
 </section>
+
+[^1]: Bíro (mad.) – starosta. _Pozn. red._
+
+[^2]: Kaštel – opevněné venkovské sídlo. _Pozn. red_.
+
+[^3]: Parobek – čeledín, pacholek. _Pozn. red_.
+
+[^4]: Fajt (z angl. fight) –  rvát se. _Pozn. red_.
+
+[^5]: Vároš (mad.) – město. _Pozn. red_.

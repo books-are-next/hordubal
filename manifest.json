@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-hordubal-4cdb1da",
-  "revision": "4cdb1da",
+  "identifier": "capek-hordubal-fc89bfa",
+  "revision": "fc89bfa",
   "readingOrder": [
     "promo.html",
     "hordubal_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:24:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486676851
+    "date": "Sat Oct 01 2022 15:21:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664637686657
   },
   "documents": [
     {
@@ -62,9 +62,9 @@
     {
       "title": "Kniha první",
       "file": "hordubal_007.html",
-      "words": 23884,
-      "chars": 130925,
-      "ideas": 694,
+      "words": 23923,
+      "chars": 131118,
+      "ideas": 699,
       "role": "chapter",
       "order": 2,
       "prev": "hordubal_005.html",
@@ -182,9 +182,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "hordubal_014.html",
-      "words": 42,
-      "chars": 236,
-      "ideas": 6,
+      "words": 81,
+      "chars": 429,
+      "ideas": 11,
       "role": "chapter",
       "order": 8,
       "prev": "hordubal_013.html",
@@ -202,9 +202,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 126,
-      "chars": 848,
-      "ideas": 16,
+      "words": 117,
+      "chars": 805,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "hordubal_014.html",
@@ -222,14 +222,14 @@
   ],
   "totals": {
     "all": {
-      "words": 34460,
-      "chars": 192697,
-      "ideas": 1221
+      "words": 34529,
+      "chars": 193040,
+      "ideas": 1230
     },
     "chapters": {
-      "words": 34329,
-      "chars": 191822,
-      "ideas": 1201
+      "words": 34407,
+      "chars": 192208,
+      "ideas": 1211
     }
   }
 }
