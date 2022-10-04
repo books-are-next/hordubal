@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:09:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640574686
+    "date": "Tue Oct 04 2022 16:57:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902622464
   },
   "documents": [
     {
@@ -202,9 +202,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 117,
+      "words": 115,
       "chars": 805,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "hordubal_014.html",
@@ -222,9 +222,9 @@
   ],
   "totals": {
     "all": {
-      "words": 34529,
+      "words": 34527,
       "chars": 193040,
-      "ideas": 1230
+      "ideas": 1228
     },
     "chapters": {
       "words": 34407,
