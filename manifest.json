@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-hordubal-773d63e",
-  "revision": "773d63e",
+  "identifier": "capek-hordubal-8c97273",
+  "revision": "8c97273",
   "readingOrder": [
     "promo.html",
     "hordubal_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:36:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664908595007
+    "date": "Tue Oct 04 2022 22:53:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924021567
   },
   "documents": [
     {
