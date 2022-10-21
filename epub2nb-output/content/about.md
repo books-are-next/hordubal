@@ -15,7 +15,7 @@ V MKP 2. opravené vydání
 [^3]: Parobek – čeledín, pacholek. _Pozn. red_.  
 [^4]: Fajt (z angl. fight) –  rvát se. _Pozn. red_.  
 [^5]: Vároš (mad.) – město. _Pozn. red_.  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
